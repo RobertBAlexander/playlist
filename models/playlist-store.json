@@ -1,0 +1,113 @@
+{
+  "playlistCollection": [
+    {
+      "id": "01",
+      "duration": "33",
+      "title": "Beethoven Sonatas",
+      "songs": [
+        {
+          "id": "03",
+          "duration": "33",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "genre": "Sonatas"
+        },
+        {
+          "id": "07",
+          "duration": "33",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "genre": "Sonatas"
+        },
+        {
+          "id": "10",
+          "duration": "33",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "genre": "Sonatas"
+        },
+        {
+          "id": "f7d488e0-ae94-4571-89c2-10c1192e9e2f",
+          "title": "Numbered song",
+          "artist": "My singer",
+          "duration": "8"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "duration": "43",
+      "title": "Beethoven Concertos",
+      "songs": [
+        {
+          "id": "00",
+          "duration": "33",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "genre": "Concerto"
+        },
+        {
+          "id": "04",
+          "duration": "33",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "genre": "Concerto"
+        },
+        {
+          "id": "06",
+          "duration": "33",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "genre": "Concerto"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "duration": "23",
+      "title": "Beethoven Brocertos",
+      "songs": [
+        {
+          "id": "08",
+          "duration": "33",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "genre": "Brocerto"
+        },
+        {
+          "id": "14",
+          "duration": "33",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "genre": "Brocerto"
+        },
+        {
+          "id": "16",
+          "duration": "33",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "genre": "Brocerto"
+        }
+      ]
+    },
+    {
+      "id": "8c8ab794-0b00-4867-9816-ab45802cd514",
+      "title": "beasthoven",
+      "songs": [
+        {
+          "id": "5ea1f436-326f-44a3-8d49-1c69b95a19f8",
+          "title": "wgwrgwr",
+          "artist": "wgwgwr",
+          "duration": 12
+        },
+        {
+          "id": "7f76307a-0c3a-4b8c-a247-9b1692e954af",
+          "title": "efwbwesdgbs",
+          "artist": "sbsbsbsdbdsbdbs",
+          "duration": 2
+        }
+      ],
+      "duration": 14
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{{> menu id="dashboard"}}
+
+<section class="ui segment">
+  {{> listplaylists}}
+  {{> addplaylist}}
+</section>
+
+<!--The below is how you do it if you don't want views, but just want it all to display
+{{> menu id="dashboard"}}
+
+{{#each playlists}}
+  <section class="ui segment">
+    <h2 class="ui header">
+      {{title}}<br>Duration: {{duration}}
+    </h2>
+
+    <table class="ui table">
+      <thead>
+        <tr>
+          <th>Song</th>
+          <th>Artist</th>
+          <th>Genre</th>
+          <th>Duration</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each songs}}
+          <tr>
+            <td>
+              {{title}}
+            </td>
+            <td>
+              {{artist}}
+            </td>
+            <td>
+              {{genre}}
+            </td>
+            <td>
+              {{duration}}
+            </td>
+          </tr>
+        {{/each}}
+      </tbody>
+
+    </table>
+
+  </section>
+
+{{/each}}
+-->
+
+<!-- This bit above is a reference to the partial 'listsongs(maybe playlists now?)' and displays the whole thing (which in this case is a table with
+  song and artist at the top, and all the stuf below. It will iterate throguh stuff later.)-->
